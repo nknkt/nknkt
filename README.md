@@ -1,4 +1,4 @@
-### 菅野 健太 kenta kanno / front engineer / osaka,japan
+### kenta kanno / front engineer / osaka,japan
 
 ```
    ∧__∧
@@ -29,7 +29,7 @@
 <p align="left">
     <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40" /> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nknkt&show_icons=true&locale=en&layout=compact" alt="nknkt" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nknkt&show_icons=true&locale=en" alt="nknkt" /></p>
+<p width="40%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nknkt&show_icons=true&locale=en&layout=compact" alt="nknkt" /></p>
+<p width="55%">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nknkt&show_icons=true&locale=en" alt="nknkt" /></p>
 
