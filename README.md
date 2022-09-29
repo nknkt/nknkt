@@ -1,4 +1,4 @@
-### kenta kanno / front engineer / osk
+### 菅野 健太 kenta kanno / front engineer / osaka,japan
 
 ```
    ∧__∧
